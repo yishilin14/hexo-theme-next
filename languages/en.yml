@@ -16,6 +16,8 @@ menu:
   schedule: Schedule
   sitemap: Sitemap
   commonweal: Commonweal 404
+  blog: Blog
+  dataset: Datasets
 
 sidebar:
   overview: Overview
